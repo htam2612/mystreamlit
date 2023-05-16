@@ -1,4 +1,3 @@
-%%writefile app.py
 import streamlit as st
 
 x = st.sliider("Select a value")
